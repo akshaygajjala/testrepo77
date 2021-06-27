@@ -7,4 +7,4 @@ Happy Weekend
 
 Welcome to GIT
 
-Thank 
+Thanks for visiting Git 
