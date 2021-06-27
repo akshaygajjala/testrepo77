@@ -11,4 +11,6 @@ Thanks for visiting Git
 
 Introducing  branching 
 
-Thuis is Concept no2 
+This is Concept no2 
+
+Trying to merge with new repo 
