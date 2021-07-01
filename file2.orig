@@ -1,0 +1,10 @@
+This 
+<<<<<<< HEAD
+file is by dev2-file2
+IS
+created bt dev2-file2
+=======
+file by dev1-file2
+is 
+created by dev1-file2
+>>>>>>> b2dd45661b2e16586fc07db1f415be44a78ec456
